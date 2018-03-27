@@ -1,2 +1,3 @@
-# spring-boot-security
-Spring Boot Security Example
+# Spring Boot Security
+
+Trying out Spring Boot Security.
