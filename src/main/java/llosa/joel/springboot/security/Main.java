@@ -1,13 +1,13 @@
-package hello;
+package llosa.joel.springboot.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class Main {
 
     public static void main(String[] args) throws Throwable {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(Main.class, args);
     }
 
 }
